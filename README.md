@@ -7,7 +7,7 @@ Problems and resources related to DSA(Data structure and Algorithm)
 
 ### 1 . Clone repo in you localsystem 
 
-`Then see the problem statments `
+`Then see the problem statments ` (Problems.md)
 
 ### 2. create a branch with name `problem_number-some_disp-github_username`
  `ex. 1-bubble_sort-GIT`
